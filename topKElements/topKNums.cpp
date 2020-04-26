@@ -1,11 +1,3 @@
-//
-//
-//
-// Time : O(N∗logK)
-// Space: O(K) 
-
-
-
 using namespace std;
 
 #include <algorithm>
